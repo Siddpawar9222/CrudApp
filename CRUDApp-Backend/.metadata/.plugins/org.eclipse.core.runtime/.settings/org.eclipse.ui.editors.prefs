@@ -1,0 +1,16 @@
+AbstractTextEditor.Accessibility.UseCustomCarets=false
+AbstractTextEditor.Accessibility.WideCaret=false
+AbstractTextEditor.Color.Background=28,31,34
+AbstractTextEditor.Color.Background.SystemDefault=false
+AbstractTextEditor.Color.FindScope=30,120,155
+AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
+AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
+AbstractTextEditor.Navigation.SmartHomeEnd=false
+Accessibility.UseSaturatedColors=true
+STS4BootMarkerIndicationColor=54,81,25
+currentIPColor=54,54,54
+eclipse.preferences.version=1
+printMarginAllowOverride=true
+printMarginColor=98,98,98
+printMarginColumn=40
+wordwrap.enabled=true
