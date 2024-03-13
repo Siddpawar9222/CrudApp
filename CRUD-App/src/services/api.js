@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://crud-app.ap-south-1.elasticbeanstalk.com";
+const API_URL = "http://localhost:5000";
 
 export const addUser = async(data) => {
   try {
