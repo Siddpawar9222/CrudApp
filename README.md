@@ -23,6 +23,7 @@ This CRUD (Create, Read, Update, Delete) operation application is developed usin
 ## Demo
 
 [Run on Local Machine](https://youtu.be/Kly8p9BMvPg)
+
 [Deploy On AWS](https://youtu.be/NCFFNcqfMWg)
 
 ---
